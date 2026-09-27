@@ -1,6 +1,6 @@
 .container {
   max-width: 600px;
-  margin: 60 auto;
+  margin: 0 auto;
   background-color: white;
   border-radius: 10px;
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.3);
@@ -54,4 +54,6 @@ footer {
   text-align: center;
   font-size: 18px;
   color: rgba (0, 0, 0, 0.7);
+  margin: 20px;
+  padding: 10px;
 }
